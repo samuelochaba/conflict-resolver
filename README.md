@@ -1,3 +1,3 @@
 # conflict-resolver
 
-This change was made from the second branch
+This change was made when i was in the first branch
